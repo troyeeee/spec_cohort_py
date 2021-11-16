@@ -1,0 +1,8 @@
+*.vcf.gz*
+*.vcf.gz.csi*
+output/*
+__pycache__/*
+*.log*9*
+*.log*
+*vcf*
+
